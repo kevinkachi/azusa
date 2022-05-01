@@ -1,0 +1,5 @@
+/.idea
+/data
+/docker-compose.yml
+/Dockerfile
+/.vscode
