@@ -1,4 +1,3 @@
-from multiprocessing.connection import wait
 from nonebot.plugin import on_keyword
 from nonebot.adapters.onebot.v11 import Message, MessageSegment
 
